@@ -48,7 +48,31 @@ For security professionals
 <tr><td>38.</td><td><a target="_blank" href="https://mega.nz/file/XPpwkSBT#oPYKluUAgKerjrCTf0ib8FcuZYAZgrVobxQmYHhVZiQ">Hands-On Ethical Hacking and Network Defense</a></td><td>867 Pages</td></tr>
 <tr><td>39.</td><td><a target="_blank" href="https://mega.nz/file/CaRnxZhQ#fXhZSIIkb2YeCGJT7a1sil30YwCcb0HJIIIjVRJ2fYg">How to Hack Computers</a></td><td>867 Pages</td></tr>
 <tr><td>40.</td><td><a target="_blank" href="https://mega.nz/file/OToXyL7J#kZ93w4pC4FZWyFUVZvTFDJu_z0FX5-ubxRGrp0QfUK8">The Basics of Hacking and Penetration Testing</a></td><td>867 Pages</td></tr>
-
+<tr><td>41.</td><td><a target="_blank" href="https://mega.nz/file/mfxRlLID#vNl3aVErVVQMQ2B7gq-iuTlaZjT2VdqFgR8UCbxKUpI">Android Hacker_s Handbook</a></td><td>867 Pages</td></tr>
+<tr><td>42.</td><td><a target="_blank" href="https://mega.nz/file/nKR3iK4B#CsAy6_8zCIOTLYrCxdWbzmoU545kPYciy911jWB4goI">Android Security Internals An In Depth Guide</a></td><td>867 Pages</td></tr>
+<tr><td>43.</td><td><a target="_blank" href="https://mega.nz/file/2OQlRCQS#Lf1fCvU4fu6wpMax1Cb4NPAq-gImQVgdM8Ovfu_axNk">Hacking Exposed Mobile Security Secrets And Solutions</a></td><td>867 Pages</td></tr>  
+<tr><td>44.</td><td><a target="_blank" href="https://mega.nz/file/zCoklJzR#HtWB_LXpk494DYTv96ZY7aw8ZyrEW7C0DvilnVaXOx4">No Starch IOS Application Security</a></td><td>867 Pages</td></tr>
+<tr><td>45.</td><td><a target="_blank" href="https://mega.nz/file/eHo1BBqD#2zTB99AxJiJOCPQjVxnecc3BlLZY3Lca-rMGt8aE0g4">Penetration Testing - A Hands on Introduction to Hacking</a></td><td>867 Pages</td></tr>
+<tr><td>46.</td><td><a target="_blank" href="https://mega.nz/file/iW5TnIBQ#TMNv92gVBgQFDFlPHkfXPt62ty2PS4P3hLGJSeMA1eM">hands on aws penetration testing with kali linux</a></td><td>867 Pages</td></tr>  
+<tr><td>47.</td><td><a target="_blank" href="https://mega.nz/file/HeACkK4Z#67jXcJCVfAGn6h69gxEjT24wda_o66IX4k4Tm5M_vvA">Real World Bug Hunting</a></td><td>867 Pages</td></tr>  
+<tr><td>48.</td><td><a target="_blank" href="https://mega.nz/file/qa5WyKgA#JocGqHNOW0mLmP2r0lr7GmeyIMt51UnfjXNKMnGSaFg">Hash Crack Password Cracking Manual</a></td><td>867 Pages</td></tr>  
+<tr><td>49.</td><td><a target="_blank" href="https://mega.nz/file/GDYSALaS#yzyUs5Jn6A-bNE7QazHwvVv90bhFO5m7ixo80kHvrLY">Metasploit Penetration Testing Cookbook</a></td><td>867 Pages</td></tr>  
+<tr><td>50.</td><td><a target="_blank" href="https://mega.nz/file/TDJwAa5Y#KWkNIPQ-5OSRVIIdZnzB3YUnpBnP6FWKpqK45FLG6Qg">Metasploit The Penetration Testers Guide</a></td><td>867 Pages</td></tr>  
+<tr><td>51.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>52.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>53.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>54.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>55.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>56.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>57.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>58.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>  
+<tr><td>59.</td><td><a target="_blank" href=""></a></td><td>867 Pages</td></tr>
+  
+  
+  
+  
+  
+  
   
   
   
