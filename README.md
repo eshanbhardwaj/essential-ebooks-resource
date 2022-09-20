@@ -34,7 +34,20 @@ For security professionals
 <tr><td>24.</td><td><a target="_blank" href="https://mega.nz/file/2X4VzCSZ#EPGVrR_JefWhbvVyCjgYn2o2TpVK5pvUuYv6hpwrVIs">python penetration testing for dev</a></td><td>867 Pages</td></tr>
 <tr><td>25.</td><td><a target="_blank" href="https://mega.nz/file/2bRnxTID#etNfVW9PW3QGKBYh4wQSdRWWFSe8t4l7npyTGLc2zBY">The Shellcoder’s Handbook</a></td><td>867 Pages</td></tr>
 <tr><td>26.</td><td><a target="_blank" href="https://mega.nz/file/eKIhgAAD#n4MsQzlkan5Cw0ENG9BHJnT3tDi-JZv89anb1pqNrqk">Linux Basics For Aspiring Hackers</a></td><td>867 Pages</td></tr>
-<tr><td>27.</td><td><a target="_blank" href="https://mega.nz/file/Sbo2nDhJ#GPgu-BSbMlCBG_XACvWs3Z5W8ARDPVAvKAt6pGvM988">Basic.Security.Testing.With.Kali.Linux</a></td><td>867 Pages</td></tr>
+<tr><td>27.</td><td><a target="_blank" href="https://mega.nz/file/Sbo2nDhJ#GPgu-BSbMlCBG_XACvWs3Z5W8ARDPVAvKAt6pGvM988">Basic Security Testing With Kali Linux</a></td><td>867 Pages</td></tr>
+<tr><td>28.</td><td><a target="_blank" href="https://mega.nz/file/PWRwUaBT#JLWljzfEym3tWcjD7d0Pmdxh_YbbkoW0lK5kUDhylxY">Mastering Kali Linux for Advanced Penetration Testing</a></td><td>867 Pages</td></tr>
+<tr><td>29.</td><td><a target="_blank" href="https://mega.nz/file/XfBgBbAR#boBj24GCCvs8JYm492MP-g5t76GEzmOfgoMar-TUMHI">TheWeb Application Hackers Handbook</a></td><td>867 Pages</td></tr>
+<tr><td>30.</td><td><a target="_blank" href="https://mega.nz/file/OfIhSbJA#gHS-rftuNcjAt7OVwM4Ub-MOhXL0kW6Q235-c9RdZ1Q">Gray hat Hacking</a></td><td>867 Pages</td></tr>
+<tr><td>31.</td><td><a target="_blank" href="https://mega.nz/file/DH5VTAxK#9jWUWSIX5ax09kbYw3Is8lYfKiRjbaIbCRZmkQaQkEs">Hacking The Art of Exploitation</a></td><td>867 Pages</td></tr>
+<tr><td>32.</td><td><a target="_blank" href="https://mega.nz/file/yGoiDDpK#5Iz2Ieu2SS7RvHQbSjjgttU3SdFOld-9N_7kEjodx5U">The Hacker Playbook 2</a></td><td>867 Pages</td></tr>
+<tr><td>33.</td><td><a target="_blank" href="https://mega.nz/file/Obp1xS7L#XFLACfapN_pO8YnS4KKibYZoTCXhsrV1iByrqVaxHgc">The Hacker Playbook 3</a></td><td>867 Pages</td></tr>
+<tr><td>34.</td><td><a target="_blank" href="https://mega.nz/file/COAGxQLA#omfvK3Banchojt6iv9nElrdF7eiu4l67v2pwME1fy0A">Hacking For Dummies</a></td><td>867 Pages</td></tr>
+<tr><td>35.</td><td><a target="_blank" href="https://mega.nz/file/eTA0mAgT#jaA7l67vQKdCdEz0plD5753nUtNvUx05Jqi7DgUQLGQ">Hacking Wireless Networks For Dummies</a></td><td>867 Pages</td></tr>
+<tr><td>36.</td><td><a target="_blank" href="https://mega.nz/file/uaRRAZrC#UjoUtpARfQV4P_TaChCna-Bjn48Y9DO-1aCN2RcylPU">Hacking Beginner to Expert Guide to Computer Hacking</a></td><td>867 Pages</td></tr>
+<tr><td>37.</td><td><a target="_blank" href="https://mega.nz/file/XLR1nbQZ#9QE8K1Y545nW0FD8nXJswCx8Pu-YQUm0Y6ctn1AcyzY">Hacking The Ultimate Hacking for Beginners How to Hack</a></td><td>867 Pages</td></tr>
+<tr><td>38.</td><td><a target="_blank" href="https://mega.nz/file/XPpwkSBT#oPYKluUAgKerjrCTf0ib8FcuZYAZgrVobxQmYHhVZiQ">Hands-On Ethical Hacking and Network Defense</a></td><td>867 Pages</td></tr>
+<tr><td>39.</td><td><a target="_blank" href="https://mega.nz/file/CaRnxZhQ#fXhZSIIkb2YeCGJT7a1sil30YwCcb0HJIIIjVRJ2fYg">How to Hack Computers</a></td><td>867 Pages</td></tr>
+<tr><td>40.</td><td><a target="_blank" href="https://mega.nz/file/OToXyL7J#kZ93w4pC4FZWyFUVZvTFDJu_z0FX5-ubxRGrp0QfUK8">The Basics of Hacking and Penetration Testing</a></td><td>867 Pages</td></tr>
 
   
   
